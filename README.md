@@ -1,5 +1,6 @@
 # harismart
 personal details 
 hi murali
-hi hari
+hii good morning 
+how r u
 git merge
